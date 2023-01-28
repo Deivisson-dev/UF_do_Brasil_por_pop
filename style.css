@@ -36,3 +36,10 @@ td{
 #container{
     overflow-x: auto;
 }
+
+caption{
+    color: white;
+    font-size: 1.5em;
+    padding: 10px;
+    background-color: #18C3F7;
+}
